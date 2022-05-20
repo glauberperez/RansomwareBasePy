@@ -1,2 +1,2 @@
-# <p align="center">Simple Ransomware<br>Simplest Ever, Bruh</p>
+# <p align="center">Ransomware Base</p>
 ### EDUCATIONAL PURPOSE ONLY!
